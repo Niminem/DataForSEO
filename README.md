@@ -10,9 +10,7 @@ Updates to this repository will be sporadic, as needed.
 
 The API is expansive and covers endpoints we'll never use, such as the Baidu search engine. These endpoints will likely never be implemented by us.
 
-This doesn't make the library unusable- quite the contrary. We designed the API to be extremely straightforward and simple.
-
-The [Extending The API](#extending-the-api) section details how you can create an endpoint that isn't currently supported. PRs are welcomed ;)
+This doesn't make the library unusable- quite the contrary. We designed the API to be extremely straightforward and simple. The [Extending The API](#extending-the-api) section details how you can create an endpoint that isn't currently supported. PRs are welcomed ;)
 
 ## Installation
 
