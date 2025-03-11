@@ -1,4 +1,5 @@
 .DS_Store
 *.exe
+*.json
 creds.txt
 # creds.txt is a single line, split by whitespace. format: login password
