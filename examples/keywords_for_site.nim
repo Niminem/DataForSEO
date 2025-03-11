@@ -29,7 +29,7 @@ var client = newDFSClient(login=creds[0], password=creds[1])
 
 var data = %*[{"language_name": "English", "location_name": "United States"}]
 data[0]["target"] = newJstring "seo.science"
-data[0]["include_clickstream_data"] = newJbool true # doubles price from 0.011 to 0.021
+data[0]["include_clickstream_data"] = newJbool false # if true, doubles price from 0.011 to 0.021
 data[0]["limit"] = newJint 10
 data[0]["offset"] = newJint 0
 

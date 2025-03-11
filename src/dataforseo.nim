@@ -1,4 +1,4 @@
-import std/[httpclient]
-export httpclient
+import std/[httpclient, httpcore]
+export httpclient, httpcore
 import dataforseo/[client, endpoints]
 export client, endpoints
