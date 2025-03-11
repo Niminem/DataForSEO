@@ -1,0 +1,4 @@
+.DS_Store
+*.exe
+creds.txt
+# creds.txt is a single line, split by whitespace. format: login password
