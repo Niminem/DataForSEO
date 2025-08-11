@@ -16,7 +16,7 @@ This doesn't make the library unusable- quite the contrary. We designed the API 
 
 `git clone https://github.com/Niminem/DataForSEO`
 
-or (when it's available on Nimble):
+or
 
 `nimble install dataforseo`
 
